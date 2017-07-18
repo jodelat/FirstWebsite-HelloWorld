@@ -1,0 +1,51 @@
+body{
+	background-color: #effee7;
+	font-family: "Sans-serif", Georgia, Serif;
+}
+
+header{
+	background-color: #333333;
+}
+
+h1{
+	background-color: grey;
+	border-style: solid;
+	border-color: black;
+	border-width: 12px;
+	font-size: 48px;
+	color: black;
+	text-align: center;
+	padding: 30px;
+}
+
+#name{
+	font-style: "times";
+	font-size: 42px;
+	text-align: center;
+}
+
+
+#bio-image{
+	float: center;
+	display: block;
+	margin: auto;
+	border-style: solid;
+	border-color: black;
+	border-width: 7px;
+}
+
+#main-bio{
+	text-align: center;
+	width: 30%;
+	font-size: 24px;
+	padding-left: 500px;
+}
+
+#contact{
+	text-align: center;
+	
+}
+
+.list{
+	text-align: center;
+}
